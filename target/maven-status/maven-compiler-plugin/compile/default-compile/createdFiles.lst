@@ -1,0 +1,9 @@
+webcrawler/books/data/Data.class
+webcrawler/books/book/BookFilter.class
+webcrawler/books/App.class
+webcrawler/books/book/Book.class
+webcrawler/books/enumData/HeadersEnum$Web.class
+webcrawler/books/crawler/Crawler.class
+webcrawler/books/enumData/HeadersEnum.class
+webcrawler/books/book/Printer.class
+webcrawler/books/book/BookFactor.class
